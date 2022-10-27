@@ -1,6 +1,6 @@
 
 
-""" This is class called Wordplay, which a field that holds a list of words. The user
+""" This is a class called Wordplay, which has a field that holds a list of words. The user
  of the class passes a list of words they want to use to the class. The class has the 
  following methods:
  • words_with_length(length)— returns a list of all the words of length length
